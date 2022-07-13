@@ -14,7 +14,7 @@ It is a React Redux application that allows a user to register, login, edit, and
 
 - Bootstrap-CDN
 
-- React Redux
+- Redux
 
 - Controlled Components
 
