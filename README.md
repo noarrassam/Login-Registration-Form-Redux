@@ -22,7 +22,7 @@ It is a React Redux application that allows a user to register, login, edit, and
 
 - Forms
 
-- React Hooks: useState, useContext
+- React Hooks: useState
 
 - Lazy Loading
 
